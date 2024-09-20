@@ -20,7 +20,7 @@ The MVH Measurement Configurator is a simple web-based tool designed to calculat
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Ruthvik-gr/MVH-Measurement-Configurator.git
     ```
 2. Open `index.html` in your web browser.
 
